@@ -1,13 +1,13 @@
 import React from 'react';
 
-function NavTabs({ currentPage, handlePageChange }) {
+function NavBar({ currentPage, handlePageChange }) {
   return (
-    <ul className="nav test">
+    <ul id='bootstrap-overide' className="nav nav-pills">
       <li className="nav-item">
         <a
           href="#aboutMe"
           onClick={() => handlePageChange('AboutMe')}
-          className={currentPage === 'AboutMe' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'AboutMe' ? ' live' : 'nav-link'}
         >
           AboutMe
         </a>
@@ -16,7 +16,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         <a
           href="#portfolio"
           onClick={() => handlePageChange('Portfolio')}
-          className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Portfolio' ? ' live' : 'nav-link'}
         >
           Portfolio
         </a>
@@ -25,7 +25,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         <a
           href="#contact"
           onClick={() => handlePageChange('Contact')}
-          className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Contact' ? ' live' : 'nav-link'}
         >
           Contact
         </a>
@@ -34,7 +34,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         <a
           href="#resume"
           onClick={() => handlePageChange('Resume')}
-          className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Resume' ? ' live' : 'nav-link'}
         >
           Resume
         </a>
@@ -43,4 +43,4 @@ function NavTabs({ currentPage, handlePageChange }) {
   );
 }
 
-export default NavTabs;
+export default NavBar;

@@ -4,15 +4,21 @@
     padding: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
         'Lucida Sans', Arial, sans-serif;
-    /* background-color: green; */
 }
 
-/* test colors */
 body {
-    background-color: green;
+    background-color: pink;
 }
 
-/* 
-#root {
-    background-color: green;
-} */
+.live {
+    background-color: teal;
+    color: black;
+    padding: 7px 14px;
+    /* border-radius: 5px; */
+}
+
+#bootstrap-overide a {
+    text-decoration: none;
+    display: block;
+    /* font-size: 12; */
+}

@@ -4,7 +4,7 @@ import '../../styles/AboutMe.css'
 
 export default function AboutMe() {
   return (
-    <div className='background'>
+    <div>
       <h1>About me</h1>
       <div className='parent'>
         <img className='child' src={picture}></img>
