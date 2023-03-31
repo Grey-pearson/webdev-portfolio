@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.0e0a904e.css",
-    "main.js": "/my-app/static/js/main.713f438e.js",
-    "static/media/workDaySchedule.jpg": "/my-app/static/media/workDaySchedule.96405bd38bfeda286308.jpg",
-    "static/media/weatherApp.jpg": "/my-app/static/media/weatherApp.fd92afd884f25014db83.jpg",
-    "static/media/portrait.jpg": "/my-app/static/media/portrait.e16ef9f2a8a1e9a0ad71.jpg",
-    "static/media/noteTacker.jpg": "/my-app/static/media/noteTacker.7906f7245d6b20678e13.jpg",
-    "static/media/greyPearsonResume.pdf": "/my-app/static/media/greyPearsonResume.c95e1a1d87b6dc0edb4a.pdf",
-    "static/media/dataTracker.jpg": "/my-app/static/media/dataTracker.381f8f77ba417be188c1.jpg",
-    "static/media/quiz.jpg": "/my-app/static/media/quiz.8ce32943daf0556cfc61.jpg",
-    "static/media/backendEshop.jpg": "/my-app/static/media/backendEshop.5f719bf7ebd01259a0f7.jpg",
-    "index.html": "/my-app/index.html",
-    "main.0e0a904e.css.map": "/my-app/static/css/main.0e0a904e.css.map",
-    "main.713f438e.js.map": "/my-app/static/js/main.713f438e.js.map"
+    "main.css": "/webdev-portfolio/static/css/main.0e0a904e.css",
+    "main.js": "/webdev-portfolio/static/js/main.32f68279.js",
+    "static/media/workDaySchedule.jpg": "/webdev-portfolio/static/media/workDaySchedule.96405bd38bfeda286308.jpg",
+    "static/media/weatherApp.jpg": "/webdev-portfolio/static/media/weatherApp.fd92afd884f25014db83.jpg",
+    "static/media/portrait.jpg": "/webdev-portfolio/static/media/portrait.e16ef9f2a8a1e9a0ad71.jpg",
+    "static/media/noteTacker.jpg": "/webdev-portfolio/static/media/noteTacker.7906f7245d6b20678e13.jpg",
+    "static/media/greyPearsonResume.pdf": "/webdev-portfolio/static/media/greyPearsonResume.c95e1a1d87b6dc0edb4a.pdf",
+    "static/media/dataTracker.jpg": "/webdev-portfolio/static/media/dataTracker.381f8f77ba417be188c1.jpg",
+    "static/media/quiz.jpg": "/webdev-portfolio/static/media/quiz.8ce32943daf0556cfc61.jpg",
+    "static/media/backendEshop.jpg": "/webdev-portfolio/static/media/backendEshop.5f719bf7ebd01259a0f7.jpg",
+    "index.html": "/webdev-portfolio/index.html",
+    "main.0e0a904e.css.map": "/webdev-portfolio/static/css/main.0e0a904e.css.map",
+    "main.32f68279.js.map": "/webdev-portfolio/static/js/main.32f68279.js.map"
   },
   "entrypoints": [
     "static/css/main.0e0a904e.css",
-    "static/js/main.713f438e.js"
+    "static/js/main.32f68279.js"
   ]
 }
