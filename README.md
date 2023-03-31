@@ -1,4 +1,5 @@
 ## My Portfollio Page
+this is a page for future employers to look at and see what projects ive and what tools i have experence with, the structure of this site goes as follows
 ---
 header
 
