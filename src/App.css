@@ -7,18 +7,16 @@
 }
 
 body {
-    background-color: pink;
+    background-color: lightcyan;
 }
 
 .live {
     background-color: teal;
     color: black;
     padding: 7px 14px;
-    /* border-radius: 5px; */
 }
 
 #bootstrap-overide a {
     text-decoration: none;
     display: block;
-    /* font-size: 12; */
 }

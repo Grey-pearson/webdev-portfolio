@@ -20,8 +20,6 @@ const styles = {
 
 export default function Contact() {
 
-  // set logic to get send the form idk how to do that lol
-
   const [inputs, setInputs] = useState({});
 
   const handleChange = (event) => {

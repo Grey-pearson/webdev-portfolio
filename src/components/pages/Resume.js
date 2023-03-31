@@ -1,5 +1,4 @@
 import React from 'react';
-// import { PDFDownloadLink, Document, Page } from '@react-pdf/renderer'
 import myResume from './imgs/greyPearsonResume.pdf'
 
 const styles = {

@@ -2,7 +2,7 @@ import React from 'react';
 
 function NavBar({ currentPage, handlePageChange }) {
   return (
-    <ul id='bootstrap-overide' className="nav nav-pills">
+    <ul id='bootstrap-overide' className="nav-color nav nav-pills">
       <li className="nav-item">
         <a
           href="#aboutMe"

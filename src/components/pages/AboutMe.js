@@ -1,5 +1,5 @@
 import React from 'react';
-import picture from './imgs/logo192.png'
+import picture from './imgs/portrait.jpg'
 import '../../styles/AboutMe.css'
 
 export default function AboutMe() {
@@ -9,16 +9,9 @@ export default function AboutMe() {
       <div className='parent'>
         <img className='child' src={picture}></img>
         <p className='child'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-          velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-          ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-          non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-          ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-          rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-          tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-          porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-          vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-          fames ac ante ipsum primis in faucibus.
+          My name is Grey Pearson im a
+          creative and driven developer seeking to contribute to a code base with a team. I have IT expeince, know how to use react, bootstrap, mongodb, and sevral tools.
+          I hope you enjoy looking through my protfollio site and see what i have been working on
         </p>
       </div>
     </div>
