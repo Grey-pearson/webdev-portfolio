@@ -1,17 +1,9 @@
 import React from 'react';
-import randomcollors from './imgs/randomcollors.png'
-import background from './imgs/tim-warnock-nf-riverkingcourt-boatexterior-a-3.jpg'
-// Eshop
 import Eshop from './imgs/backendEshop.jpg'
-// dataTracker
 import dataTracker from './imgs/dataTracker.jpg'
-// noteTaker
 import noteTaker from './imgs/noteTacker.jpg'
-// forcast
 import forcast from './imgs/weatherApp.jpg'
-// dailySchedule
 import dailySchedule from './imgs/workDaySchedule.jpg'
-// quiz
 import quiz from './imgs/quiz.jpg'
 
 const styles = {
